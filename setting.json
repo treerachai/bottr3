@@ -1,0 +1,29 @@
+{
+    "autoAdd": false,
+    "autoAddMessage": "Hello @!, Thank you for adding me as a friend",
+    "autoBlockMessage": "Sorry is autoblock\nPlease contact Me",
+    "autoJoin": false,
+    "autoJoinMessage": "Hello @ !, thanks for inviting me",
+    "autoJoinTicket": false,
+    "autoRead": true,
+    "autoRespon": false,
+    "autoResponMessage": "Woi @ !, no need to tag",
+    "changeGroupPicture": [],
+    "changePictureProfile": false,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "detectUnsend": false,
+    "keyCommand": "",
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "",
+        "displayName": "",
+        "pictureStatus": "",
+        "statusMessage": ""
+    },
+    "setKey": false
+}
