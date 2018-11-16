@@ -29,7 +29,7 @@ try:
 				break
 			except Exception as error:
 				print(error)
-				if error == "REVOKE":
+				if error == "TRBOT":
 					exit()
 				elif "auth" in error:
 					continue
