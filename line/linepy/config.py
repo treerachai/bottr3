@@ -32,10 +32,10 @@ class Config(object):
     }
 
     APP_TYPE    = ApplicationType._VALUES_TO_NAMES[304]
-    APP_VER     = '9.20.1'
+    APP_VER     = '10.0.2'
     CARRIER     = '51089, 1-0'
     SYSTEM_NAME = 'TRBOT'
-    SYSTEM_VER  = '11.2.5'
+    SYSTEM_VER  = '11.12.5'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
